@@ -30,10 +30,18 @@ A **web-based application** built with **Flask** that allows users to upload res
 
 ---
 
+## ScreenShot
+
+<img width="1888" height="924" alt="Screenshot 2025-09-26 212240" src="https://github.com/user-attachments/assets/aa58b051-191a-4b59-8a3b-98fe91c15286" />
+<img width="1879" height="891" alt="Screenshot 2025-09-26 212252" src="https://github.com/user-attachments/assets/e6542a29-01f4-4601-a8ee-bda2f434a7b9" />
+
+
+
 ## Installation
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/CVAnalyzer.git
    cd CVAnalyzer
+
 
