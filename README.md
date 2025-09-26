@@ -16,7 +16,6 @@ A **web-based application** built with **Flask** that allows users to upload res
   - Experience (years)
 - **Admin Dashboard:** View all uploaded resumes and their parsed information.
 - **Download Resumes:** Download the uploaded resumes from the dashboard.
-- **Delete Functionality:** Admin can remove resumes and their extracted data.
 - **Responsive UI:** Mobile-friendly design for both the upload page and dashboard.
 - **Supported Formats:** PDF, DOC, DOCX.
 
@@ -37,3 +36,4 @@ A **web-based application** built with **Flask** that allows users to upload res
    ```bash
    git clone https://github.com/your-username/CVAnalyzer.git
    cd CVAnalyzer
+
